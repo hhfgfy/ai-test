@@ -1,0 +1,7 @@
+numpy
+torch
+torchvision
+ultralytics
+pyautogui
+pynput
+mss
